@@ -1,8 +1,8 @@
 module.exports = {
-    name: '{({ name })}',
+    name: 'testreadme4',
     github: {
-        repoName: '{({ github.repoName })}',
-        name: '{({ github.name})}'
+        repoName: 'testreadme4',
+        name: '1tryer'
     },
     assets: [
         'src/package.json',
